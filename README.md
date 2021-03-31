@@ -29,5 +29,5 @@ Linking Existing R project to Github
 
 #Because it didn't work in my case.
 
-#Just type "cd ~/specdata/Pollutantmean
+#Just type "cd ~/specdata/Pollutantmean"
 
