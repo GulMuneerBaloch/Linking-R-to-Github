@@ -1,4 +1,4 @@
-# Pollutantmean
+#Linking Existing R project to Github
 Linking Existing R project to Github
 ##R Studio Commands
 
